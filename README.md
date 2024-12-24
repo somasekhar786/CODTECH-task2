@@ -1,8 +1,13 @@
 **Name:** YALLANKI SOMA SEKHAR 
+
 **Company:** CODTECH IT SOLUTIONS
+
 **Id:** CT08EKL
+
 **Domain:** SQL
+
 **Duration:** dec-17 to jan-17 2025
+
 **Mentor:** NEELA SANTHOSH KUMAR
 
 
